@@ -11,9 +11,6 @@ This repository contains the supplementary material of the study "Machine-Learni
 - `rf_predictions_best_compromise/`: Saved predictions of the RF model for all five horizons. These files are loaded and used to skip the repeated running of the RF model.
 - `trained_lstm_models/`: Saved data files of the ran LSTM model with the highest NSE values for all horizons. These files 
 are loaded and used to skip the repeated running of the LSTM model.
-- `supplementary_tables/`: Supplementary tables referenced in the manuscript.
-- `supplementary_figures/`: Additional figures.
-- `model_parameters/`: Hyperparameters of the LSTM and Random Forest models.
 
 ## Study overview
 
