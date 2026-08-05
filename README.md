@@ -18,12 +18,7 @@ horizons of 3, 6, 12, 24, and 72 hours.
 
 ## Data availability
 
-Meteorological data were obtained from the German Weather Service (DWD).
-Discharge data were obtained from [name of provider].
-
-Due to licensing restrictions, the original input data are not redistributed
-in this repository. The README provides the information required to retrieve
-the data from the original providers.
+Discharge data for the study area were obtained as open-access records from OpenGeodata.NRW (Landesbetrieb für Information und Technik NRW, 2025). The seven precipitation data sets were provided upon request by the State Office for Nature, Environment, and Climate of North Rhine-Westphalia (LANUK).
 
 ## Software requirements
 
