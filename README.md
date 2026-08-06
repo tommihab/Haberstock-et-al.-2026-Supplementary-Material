@@ -20,7 +20,7 @@ horizons of 3, 6, 12, 24, and 72 hours.
 
 ## Data availability
 
-Discharge data for the study area were obtained as open-access records from OpenGeodata.NRW. The seven precipitation data sets were provided upon request by the State Office for Nature, Environment, and Climate of North Rhine-Westphalia (LANUK).
+Discharge data for the study area were obtained as open-access records from [OpenGeodata.NRW](https://www.opengeodata.nrw.de/produkte/umwelt_klima/wasser/oberflaechengewaesser/hydro/). The seven precipitation data sets were provided upon request by the State Office for Nature, Environment, and Climate of North Rhine-Westphalia (LANUK).
 
 ## Reproduction
 
