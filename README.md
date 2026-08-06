@@ -5,8 +5,8 @@ This repository contains the supplementary material of the study "Machine-Learni
 
 - `Google Colab Jupiter Notebooks/`: Google Colab notebooks used for data preprocessing,
   model training, and evaluation.
-- `Input_Data_Stations/`: The seven rainfall measuring stations and the discharge gauge at Einen. All data sets were cropped to the same timespan (01.01.2007 - 01.01.2024).
-- `ML_Input_Data/`: Data set with the combined data of the seven rainfall stations, discharge and DOY. This data set is used for running the ML models
+- `Input_Data_Stations/`: The seven rainfall measuring stations and the discharge gauge at Einen. All data sets were cropped to the same timespan (01.01.2007 - 01.01.2024). This data is used for the Data Processing Jupiter Notebook (1.)
+- `ML_Input_Data/`: Data set with the combined data of the seven rainfall stations, discharge and DOY. This data set is used for running the ML models (Jupiter Notebooks 2. and 3.)
 - `predictions_with_doy/`: Saved .csv files of the ran LSTM model containing the observed and predicted values of the test data set.
 - `rf_predictions_best_compromise/`: Saved predictions of the RF model for all five horizons. These files are loaded and used to skip the repeated running of the RF model.
 - `trained_lstm_models/`: Saved data files of the ran LSTM model with the highest NSE values for all horizons. These files 
