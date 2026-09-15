@@ -1,5 +1,5 @@
 # Haberstock-et-al.-2026-Supplementary-Material
-This repository contains the supplementary material of the study "Comparing LSTM and Random Forest models for multi-lead-time discharge forecasting of the Ems River in Germany" from Haberstock et al. 2026.
+This repository contains the supplementary material of the study "Comparing LSTM and Random Forest models for multi-lead-time river discharge forecasting" from Haberstock et al. 2026.
 
 ## Contents
 
